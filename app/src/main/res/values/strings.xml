@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Breaking Bad Quiz</string>
+    <string name="welcome">Are you the new Heisenberg?\nTry!</string>
+    <!--FIRST-->
+    <string name="one_question">1)What is the real name of Heisenberg?</string>
+    <string name="one_help">First name</string>
+    <!--SECOND-->
+    <string name="two_question">2)What of these drugs is cooked by Heisenberg?</string>
+    <string name="two_one_answer">Cocaine</string>
+    <string name="two_two_answer">Metanfetamine</string>
+    <!--THREE-->
+    <string name="three_question">3)Where did Heisenberg cook for the first time the drug?</string>
+    <string name="three_one_answer">Albuquerque</string>
+    <string name="three_two_answer">Desert</string>
+    <!--FOUR-->
+    <string name="four_question">4)Compose the name of this character</string>
+    <string name="four_one_answer">Fring</string>
+    <string name="four_two_answer">White</string>
+    <string name="four_three_answer">Gus</string>
+    <string name="four_four_answer">Jesse</string>
+    <!--FIVE-->
+    <string name="five_question">5)What is the secret topping of Heisenberg\'s drug?</string>
+    <string name="five_one_answer">Methylamine</string>
+    <string name="five_two_answer">Phosphine</string>
+    <!--SIX-->
+    <string name="six_question">6)What elements are represented in the title of the serie?</string>
+    <string name="six_one_answer">Oxigen</string>
+    <string name="six_two_answer">Bromine</string>
+    <string name="six_three_answer">Barium</string>
+    <string name="six_four_answer">Hydrogen</string>
+    <!--SEVEN-->
+    <string name="seven_question">7)Is Heisenberg married?</string>
+    <string name="seven_one_answer">Yes</string>
+    <string name="seven_two_answer">No</string>
+    <!--EIGHT-->
+    <string name="eight_question">8)What is the famous phrase pronounced by Heisenberg?</string>
+    <string name="eight_one_answer">I will kill you!</string>
+    <string name="eight_two_answer">Say my name!</string>
+    <string name="eight_three_answer">I win, you lose!</string>
+    <string name="eight_four_answer">You complete me</string>
+    <!--NINE-->
+    <string name="nine_question">9)Who is the actor of this character?</string>
+    <string name="nine_one_answer">Aaron Paul</string>
+    <string name="nine_two_answer">Bryan Cranston</string>
+    <!--TEN-->
+    <string name="ten_question">10)Who is the lawyer of Heisenberg?</string>
+    <string name="ten_one_answer">Saul Goodman</string>
+    <string name="ten_two_answer">Charles McGill</string>
+    <!--BUTTON-->
+    <string name="button">submit answer</string>
+    <string name="button2">reset quiz</string>
+    <string name="button3">get us a feedback!</string>
+    <!--JAVA-->
+    <string name="correct_ans">Correct answers: </string>
+    <string name="less_six">\nYou need to practice!</string>
+    <string name="equal_six">\nHeisenberg is proud of you!</string>
+    <string name="feedback">Feedback "Breaking Bad Quiz"</string>
+    <string name="mail1">pasqualeconvertini95@gmail.com</string>
+</resources>
